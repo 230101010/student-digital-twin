@@ -1,4 +1,4 @@
-Student Digital Twin for Exam Success Prediction
+# Student Digital Twin for Exam Success Prediction 
 
 **CSS 324: Introduction to Machine Learning — Final Project**
 
